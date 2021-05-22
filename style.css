@@ -1,0 +1,34 @@
+
+*{
+    margin: 0;
+    padding:0 ;
+}
+.container{
+    background-color:white;
+    width: 700px;
+   
+}
+#user{
+    height: 75px;
+    position: absolute;
+    top: 60px;
+    border:solid .25em white;
+    border-radius: 50%;
+}
+ .col{
+     background-color:teal ;
+     height: 125px;
+ }
+
+
+ .col2{
+     height: 175px;
+    border-left: solid 3px grey;
+    border-bottom: solid 3px grey;
+    border-right: solid 3px grey;
+    font-size: larger;
+ }
+ .col2 img{
+     height: 40px;
+ }
+
